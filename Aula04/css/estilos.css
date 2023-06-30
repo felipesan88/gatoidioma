@@ -1,0 +1,97 @@
+.cat{
+    background-image: url(/Aula04/imagens/gatinho.jpg);
+margin: 0;
+background-size: cover;
+
+}
+
+
+.gato table{
+justify-content:center ;
+display: flex;
+   align-items: center;
+   height: 100vh;
+ 
+   
+   
+  
+   
+   
+   
+   
+  
+    
+}
+
+tr td{ 
+    border:  10px solid rgb(2, 2, 2);
+    border-collapse: collapse;
+    background-color: rgba(8, 4, 4, 0.616);
+    border-width: 10px;
+    font-size: 50px;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    text-shadow: 10px 10px 10px rgb(0, 0, 0);
+
+    
+
+    
+    
+    
+}
+tr th{
+    border: 10px solid rgb(0, 0, 0); 
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+    text-align: center;
+    border-collapse: collapse;
+    width: 100px;
+    
+  }  
+
+
+  
+
+
+
+
+.afr{
+    background-image:url(https://gartic.com.br/imgs/mural/ba/batata_quente/bandeira-africa.png) ;
+}
+
+.alb{
+    background-image: url(https://th.bing.com/th?id=OIP.qUywm_LSzSmekMW-rLt8ZgHaFN&w=298&h=209&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+    background-position: center;
+    background-size: 150px;
+}
+.bul{
+    background-image: url(https://th.bing.com/th?id=OIP.2X3527Z5hYPchcgKsYnFewHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+    background-position: center;
+    background-size: 150px;
+}
+.cata
+{
+    background-image: url(https://th.bing.com/th?id=OIP.3DptTt_N0NUb2oeFufnq2AHaEc&w=282&h=169&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+    background-position: center;
+    background-size: 150px;
+}
+ 
+.esp{
+    background-image: url(https://th.bing.com/th?id=OIP.27WQx-qsNv--dTw_NylOtQHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+    background-position: cover;
+    background-size: 300px;
+}
+
+.fran{
+    background-image: url(https://th.bing.com/th?id=OIP.pFP6mnSoBKSlOM8Dle7DHQHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+
+}
+.ale{
+    background-image: url(https://th.bing.com/th?id=OIP.j1viVGNmr9eDNlXxqGTOtAHaEc&w=322&h=193&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+background-position: center;
+background-size: 150px;
+
+}
